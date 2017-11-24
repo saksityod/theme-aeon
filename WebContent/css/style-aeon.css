@@ -1,0 +1,39 @@
+.top-navigation .wrapper.wrapper-content {
+    padding: 0px;
+}
+.searchArea{
+	padding-bottom:10px;
+	padding-top:10px; 
+	
+	margin-bottom:5px;
+	margin-top:5px;
+	
+	/*background:white;*/
+}
+.bgWhite{
+	padding:5px;
+	background:white;
+}
+.bgBanner{
+	height:242px;
+	background:white;
+	
+}
+
+.bgContent1_1{
+	height:121px;
+	background:white;
+}
+.bgContent1_2{
+	height:121px;
+	background:white;
+}
+.bgContent2{
+	height:242px;
+	background:white;
+}
+.footerTitle{
+	text-decoration:underline;
+	font-weight:bold;
+}
+
